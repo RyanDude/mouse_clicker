@@ -1,4 +1,5 @@
 from pynput import keyboard, mouse
+from sys import exit
 
 mouse_control = mouse.Controller()
 
